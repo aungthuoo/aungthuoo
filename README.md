@@ -6,9 +6,11 @@
   <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a>
 </p>
 
-I'm a __full stack developer__ and __technical writer__ based in __Yangon, Myanmar__. I love teaching web development and all kinds of other things online and I'm ready for discussions and making new projects, write blogs on Dev.to etc.
+As a Senior Developer at Hana Microfinance, I leverage my full stack expertise to deliver scalable and user-friendly web and mobile applications that enhance financial inclusion and empowerment. With over 15 years of experience in the software industry, I have a proven track record of leading and executing complex projects using cutting-edge technologies and best practices.
 
-* 💼 Currently working at [Frichti](https://www.frichti.co) <br/>
+My core competencies include PHP, React.js, Node.js, Vue.js, Laravel, AWS, and Docker. I also have experience with Flutter, Java, Microsoft Power Platform, Power App, and Socket.io. I enjoy collaborating with cross-functional teams, learning new skills, and solving challenging problems. My mission is to create impactful and innovative solutions that make a difference in the lives of millions of people.
+
+* 💼 Currently working at [Hana Microfinance]([https://www.frichti.co](https://www.linkedin.com/company/hana-microfinance/mycompany/)) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
 * ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
 * 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
