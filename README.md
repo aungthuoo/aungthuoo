@@ -13,7 +13,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 * 💼 Currently working at [Hana Microfinance](https://www.linkedin.com/company/hana-microfinance/mycompany/) <br/>
 * 🔖 Discover my [Curriculum Vitae](https://www.linkedin.com/in/aungthuoo/)<br/>
 * ✍🏻 I wrote dev articles on [softwarezay.com](https://softwarezay.com) <br/>
-* 📫 Contact me [@AndrewMaung](koaungthuoo@gmail.com)
+* 📫 Contact me [koaungthuoo@gmail.com](koaungthuoo@gmail.com)
 
 ## My skills
 
