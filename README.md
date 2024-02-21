@@ -25,9 +25,9 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 ## My last 3 DEV articles
 
 <!-- BLOG-POST-LIST:START -->
-- [👑 Create a secure Chat Application with React Hooks, Firebase and Seald 🔐](https://dev.to/viclafouch/create-a-secure-chat-application-with-react-hooks-firebase-and-seald-2bc1)
-- [🍿 Publish your own ESLint / Prettier config for React Projects on NPM 📦](https://dev.to/viclafouch/publish-your-own-eslint-prettier-config-for-react-projects-on-npm-g3p)
-- [🤝 Promise.allSettled() VS Promise.all() in JavaScript 🍭](https://dev.to/viclafouch/promise-allsettled-vs-promise-all-in-javascript-4mle)
+- [👑 Deploy a React Application With Firebase Hosting 🔐](https://softwarezay.com/notes/topics/react-js-deploy-to-firebase-hosting)
+- [🍿 Fetching paginated data using React.js 📦](https://softwarezay.com/notes/topics/fetching-paginated-data-using-react-js)
+- [🍿 Fetching data using React.js 📦](https://softwarezay.com/notes/topics/fetching-data-using-react-js)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
