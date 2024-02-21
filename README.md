@@ -11,9 +11,9 @@ As a __Full Stack Developer__ at Hana Microfinance, I leverage my full stack exp
 My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and Docker__. I also have experience with __Flutter, Java, Microsoft Power Platform, Power App, and Socket.io__. I enjoy collaborating with cross-functional teams, learning new skills, and solving challenging problems. My mission is to create impactful and innovative solutions that make a difference in the lives of millions of people.
 
 * 💼 Currently working at [Hana Microfinance](https://www.linkedin.com/company/hana-microfinance/mycompany/) <br/>
-* 🔖 Discover my [Curriculum Vitae](https://www.victor-de-la-fouchardiere.fr/pdf/CV-Victor-de-la-Fouchardiere.pdf)<br/>
-* ✍🏻 I wrote dev articles on [dev.to](https://dev.to/viclafouch) <br/>
-* 📫 Contact me [@TrustedSheriff](https://twitter.com/TrustedSheriff)
+* 🔖 Discover my [Curriculum Vitae](https://www.linkedin.com/in/aungthuoo/)<br/>
+* ✍🏻 I wrote dev articles on [softwarezay.com](https://softwarezay.com) <br/>
+* 📫 Contact me [@AndrewMaung](koaungthuoo@gmail.com)
 
 ## My skills
 
