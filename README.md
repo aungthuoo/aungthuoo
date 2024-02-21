@@ -33,4 +33,3 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 <br/>
 <br/>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=viclafouch.viclafouch)
