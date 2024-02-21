@@ -1,4 +1,9 @@
+
+<p align="center">
+  <img align="center" alt="Skills" src="[banner](https://raw.githubusercontent.com/mrandrewmaung/mrandrewmaung/main/img/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png)" />
+</p>
 <h1 align="center">Hi there 👋</h1>
+
 
 <p align="center">
   <a href="https://www.softwarezay.com/">Website</a> •
