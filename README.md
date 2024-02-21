@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="https://www.victor-de-la-fouchardiere.fr/">Website</a> •
-  <a href="https://twitter.com/TrustedSheriff">Twitter</a> •
-  <a href="https://www.linkedin.com/in/victordelafouchardiere">Linkedin</a>
+  <a href="https://www.softwarezay.com/">Website</a> •
+  <a href="https://github.com/mrandrewmaung">Github</a> •
+  <a href="https://www.linkedin.com/in/aungthuoo/">Linkedin</a>
 </p>
 
 As a __Full Stack Developer__ at Hana Microfinance, I leverage my full stack expertise to deliver scalable and user-friendly web and mobile applications that enhance financial inclusion and empowerment. With __over 15 years__ of experience in the software industry, I have a proven track record of leading and executing complex projects using cutting-edge technologies and best practices.
