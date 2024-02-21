@@ -4,11 +4,20 @@
 
 [![Build Status](https://ci.annhe.net/api/badges/annProg/PanBook/status.svg)](https://ci.annhe.net/annProg/PanBook)
 
+
+
+
 ## 简介
 `PanBook`基于`Pandoc`的`lua filter`功能，适配各种书籍，论文，幻灯片及简历的`LaTeX`或`EPUB`模板。
 目标是使用`Pandoc's Markdown`作为写作语言，实现**一次编写 多次生成**。
 
 预览
+
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/2" alt="Recent Article 2"> 
+
+
 
 | Book | Article | Thesis | Slide | CV |
 | --- | --- | --- | --- | --- |
