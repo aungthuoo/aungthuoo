@@ -28,6 +28,13 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 </p>
 
 
+## My Node.js Skills 
+<p align="center">
+  <img align="center" alt="Skills" src="./img/my-node-js-skill.png />
+</p>
+
+
+
 ## My last 3 DEV articles
 
 <!-- BLOG-POST-LIST:START -->
