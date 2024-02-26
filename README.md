@@ -30,7 +30,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 ## My Node.js Skills 
 <p align="center">
-  <img align="center" alt="Skills" src="./img/my-node-js-skill.png />
+  <img align="center" alt="Skills" src="./img/my-node-js-skill.png" />
 </p>
 
 
