@@ -38,6 +38,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 <p align="center">
   <img align="center" alt="Skills" src="./img/my-react-js-skills.png" />
 </p>
+
 ## 1. Basics
 ### 1.1 HTML
 ### 1.2 CSS
