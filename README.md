@@ -38,6 +38,18 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 <p align="center">
   <img align="center" alt="Skills" src="./img/my-react-js-skills.png" />
 </p>
+## 1. Basics
+### 1.1 HTML
+### 1.2 CSS
+### 1.3 JavaScript
+## 2. General Development Skills
+### 2.1 Learn GIT
+### 2.2 Know HTTP(S) protocol
+### 2.3. Learn the terminal
+### 2.4. Algorithms and Data Structure
+### 2.5. Learn Design Patterns and Software Architecture
+## 3. Learn React.js
+## 4. Learn Build Tools
 
 
 ## My last 3 DEV articles
