@@ -62,13 +62,13 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 
 
-<h3>My Experiences</h3>
+<h3>My Work Experiences</h3>
 <table>
   <thead align="center">
     <tr border: none;>
       <td>Logo</td>
       <td><b>Description</b></td>
-      <td><b>Year</b></td>
+      <td><b></b></td>
     </tr>
   </thead>
   <tbody>
@@ -85,7 +85,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance · Full-time</b></a>
       </td>
       <td>
       </td>
@@ -148,6 +148,124 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
             </tr>
             <tr>
               <td>- Microsoft Power Platform, Power Apps</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects
+        <table>
+          <tbody>
+            <tr>
+              <td>- FinFlex integration</td>
+            </tr>
+            <tr>
+              <td>- Loan App (Online/ offline )</td>
+            </tr>
+            <tr>
+              <td>- Admin dashboard</td>
+            </tr>
+            <tr>
+              <td>- Internal softwares</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/softwarezay_logo.jpeg" />
+      </td>
+      <td>
+        <h3>Technical Lead</h3>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>SoftwareZay · Self-employed</b></a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Jan 2020 - Present · Over 4 years 
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Yangon, Myanmar 
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects 
+        <table>
+          <tbody>
+            <tr>
+              <td>- YaeOhSin Water Delivery ( Purified water delivery)</td>
+            </tr>
+            <tr>
+              <td>- RewardsTogether ( Loyalty App )</td>
+            </tr>
+            <tr>
+              <td>- OMG Game Shop ( Game credit sales )</td>
+            </tr>
+            <tr>
+              <td>- Ecommerce Apps </td>
+            </tr>
+            <tr>
+              <td>- Van Car Sales ( Offline / Online sales App )</td>
+            </tr>
+            <tr>
+              <td>- Delivery Apps ( Food Mall, Mall Plus)</td>
+            </tr>
+            <tr>
+              <td>- News App ( CMS )</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        Tech stack
+        <table>
+          <tbody>
+            <tr>
+              <td>- React.js </td>
+            </tr>
+            <tr>
+              <td>- Node.js </td>
+            </tr>
+            <tr>
+              <td>- Laravel (PHP)</td>
+            </tr>
+            <tr>
+              <td>- Vue.js </td>
+            </tr>
+            <tr>
+              <td>- Amazon Web Service (AWS)</td>
+            </tr>
+            <tr>
+              <td>- MySQL</td>
+            </tr>
+            <tr>
+              <td>- Git</td>
             </tr>
           </tbody>
         </table>
