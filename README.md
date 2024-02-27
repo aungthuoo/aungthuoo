@@ -1,8 +1,7 @@
 
-<!-- <p align="center">
-
-  <img align="center" alt="Skills" src="https://raw.githubusercontent.com/mrandrewmaung/mrandrewmaung/main/img/Black%20Geometric%20Marketing%20Expert%20LinkedIn%20Banner.png" />
-</p> -->
+<p align="center">
+  <img align="center" alt="Skills" src="./img/banners/main-banner.png" />
+</p>
 
 
 <p align="center">
