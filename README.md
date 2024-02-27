@@ -876,7 +876,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
         <img align="center" width="70px" alt="yu" src="./img/university/yu.jpeg" />
       </td>
       <td>
-        <a href="https://www.linkedin.com/school/rangoon-arts-and-sciences-university/"><b>University of Yangon</b></a>
+        <a href="#"><b>University of Yangon</b></a>
       </td>
     </tr>
     <tr>
