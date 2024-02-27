@@ -74,7 +74,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
   <tbody>
     <tr>
       <td>
-        <img align="center" width="100px" alt="hana-microfinance" src="./img/company/hana_microfinance_logo.jpeg" />
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/hana_microfinance_logo.jpeg" />
       </td>
       <td>
         <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
