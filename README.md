@@ -325,6 +325,10 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
   </a>
 </div>
 
+
+<span>Map & forEach</span>
+<span>Mutable and Immutable</span>
+
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
 - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
