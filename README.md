@@ -883,14 +883,14 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
       <td>
       </td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>PGDCA</b></a>
+        <b>PGDCA</b>
       </td>
     </tr>
     <tr>
       <td>
       </td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Jan 2012 - Dec 2014</b></a>
+        <b>Jan 2012 - Dec 2014</b>
       </td>
     </tr>
     <tr>
@@ -904,14 +904,14 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>B.Com</b></a>
+        <b>B.Com</b>
       </td>
     </tr>
     <tr>
       <td>
       </td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>2002 - 2005</b></a>
+        <b>2002 - 2005</b>
       </td>
     </tr>
   </tbody>
