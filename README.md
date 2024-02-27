@@ -337,9 +337,11 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 
 
-## 📝 My React.js skills
+## 📝 My tech stack
 ![image](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![image](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
 
 ## My last 3 DEV articles
 
