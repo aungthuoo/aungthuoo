@@ -154,28 +154,6 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
       </td>
     </tr>
     <tr>
-      <td></td>
-      <td>
-        Projects
-        <table>
-          <tbody>
-            <tr>
-              <td>- FinFlex integration</td>
-            </tr>
-            <tr>
-              <td>- Loan App (Online/ offline )</td>
-            </tr>
-            <tr>
-              <td>- Admin dashboard</td>
-            </tr>
-            <tr>
-              <td>- Internal softwares</td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-    <tr>
       <td></td><td></td><td></td>
     </tr>
     <tr>
@@ -266,28 +244,6 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
             </tr>
             <tr>
               <td>- Git</td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        Projects
-        <table>
-          <tbody>
-            <tr>
-              <td>- FinFlex integration</td>
-            </tr>
-            <tr>
-              <td>- Loan App (Online/ offline )</td>
-            </tr>
-            <tr>
-              <td>- Admin dashboard</td>
-            </tr>
-            <tr>
-              <td>- Internal softwares</td>
             </tr>
           </tbody>
         </table>
