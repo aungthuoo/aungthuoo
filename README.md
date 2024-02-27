@@ -61,13 +61,177 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 
 
+
+<h3>My Experiences</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📚 Description</b></td>
+      <td><b>⭐ Year</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
+        <table>
+          <thead>
+            <tr border: none;>
+              <td><b>📚 Description</b></td>
+              <td><b>⭐ Year</b></td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Line </td>
+              <td>Line </td>
+            </tr>
+            <tr>
+              <td>Line </td>
+              <td>Line </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
+        <table>
+          <thead>
+            <tr border: none;>
+              <td><b>📚 Description</b></td>
+              <td><b>⭐ Year</b></td>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Line </td>
+              <td>Line </td>
+            </tr>
+            <tr>
+              <td>Line </td>
+              <td>Line </td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="header" align="center">
+  <a href="#">View more</a>
+</div>
+<br/>
+<hr/>
+
+
+<h3>My Educations</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📚 Description</b></td>
+      <td><b>⭐ Year</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
+      </td>
+      <td>
+        <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<div id="header" align="center">
+  <a href="#">View more</a>
+</div>
+<br/>
+<hr/>
+
+
+
+
 <h3>My Skills</h3>
 <p align="center">
   <img align="center" alt="Skills" src="https://github.com/viclafouch/viclafouch/blob/master/img/pack.png" />
 </p>
+<br/>
+<hr/>
 
 
-<h3>My Node.js Skills</h3>
+
+
+<h3>My JavaScript skills</h3>
+<p align="center">
+  <img align="center" alt="Skills" src="./img/my-node-js-skills.png" />
+</p>
+<p>
+  I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs, I am well-versed in leveraging Node.js's capabilities to deliver robust and high-performing solutions. My expertise extends to areas such as asynchronous programming, event-driven architecture, package management, and deploying applications in production environments. Additionally, I am proficient in utilizing popular frameworks and libraries within the Node.js ecosystem, such as Express.js, Socket.io, and Sequelize, to streamline development processes and enhance functionality. Overall, my deep understanding of Node.js enables me to tackle diverse challenges with efficiency and precision.
+</p>
+<ul>
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+
+</ul>
+<br>
+<div id="header" align="center">
+  <a href="#">View more</a>
+</div>
+<br/>
+<hr/>
+
+
+
+
+
+
+<h3>My Node.js skills</h3>
 <p align="center">
   <img align="center" alt="Skills" src="./img/my-node-js-skills.png" />
 </p>
@@ -110,30 +274,151 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 <br>
 <div id="header" align="center">
-
-<a href="#">View more</a>
+  <a href="#">View more</a>
 </div>
+<br/>
+<hr/>
 
 
 
-
-
-
-
-
-
-<h3>My React.js Skills</h3>
+<h3>My React.js skills</h3>
 <p align="center">
-  <img align="center" alt="Skills" src="./img/my-react-js-skills.png" />
+  <img align="center" alt="Skills" src="./img/my-node-js-skills.png" />
+</p>
+
+<p>
+  I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs, I am well-versed in leveraging Node.js's capabilities to deliver robust and high-performing solutions. My expertise extends to areas such as asynchronous programming, event-driven architecture, package management, and deploying applications in production environments. Additionally, I am proficient in utilizing popular frameworks and libraries within the Node.js ecosystem, such as Express.js, Socket.io, and Sequelize, to streamline development processes and enhance functionality. Overall, my deep understanding of Node.js enables me to tackle diverse challenges with efficiency and precision.
 </p>
 <ul>
-  <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li>
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
 </ul>
+<div id="header" align="center">
+  <a href="#">View more</a>
+</div>
+<br/>
+<hr/>
+
+
+
+<h3>My Laravel skills</h3>
+<p align="center">
+  <img align="center" alt="Skills" src="./img/my-node-js-skills.png" />
+</p>
+
+<p>
+  I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs, I am well-versed in leveraging Node.js's capabilities to deliver robust and high-performing solutions. My expertise extends to areas such as asynchronous programming, event-driven architecture, package management, and deploying applications in production environments. Additionally, I am proficient in utilizing popular frameworks and libraries within the Node.js ecosystem, such as Express.js, Socket.io, and Sequelize, to streamline development processes and enhance functionality. Overall, my deep understanding of Node.js enables me to tackle diverse challenges with efficiency and precision.
+</p>
+<ul>
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+</ul>
+<div id="header" align="center">
+  <a href="#">View more</a>
+</div>
+<br/>
+<hr/>
+
+
+<h3>My Flutter skills</h3>
+<p align="center">
+  <img align="center" alt="Skills" src="./img/my-node-js-skills.png" />
+</p>
+
+<p>
+  I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs, I am well-versed in leveraging Node.js's capabilities to deliver robust and high-performing solutions. My expertise extends to areas such as asynchronous programming, event-driven architecture, package management, and deploying applications in production environments. Additionally, I am proficient in utilizing popular frameworks and libraries within the Node.js ecosystem, such as Express.js, Socket.io, and Sequelize, to streamline development processes and enhance functionality. Overall, my deep understanding of Node.js enables me to tackle diverse challenges with efficiency and precision.
+</p>
+<ul>
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+
+  <li>
+    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
+      <b>
+        Node.js sequelize migrations
+      </b>
+    </a>
+    <br/>
+    <i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it. You define those functions manually, but you don't call them manually; they will be called automatically by the CLI. </i>
+  </li>
+</ul>
+<div id="header" align="center">
+  <a href="#">View more</a>
+</div>
+<hr/>
+<br/>
+
 
 ## My last 3 DEV articles
 
