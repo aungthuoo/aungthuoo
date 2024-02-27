@@ -600,12 +600,268 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
         </table>
       </td>
     </tr>
+    <tr>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/mmrd_logo.jpeg" />
+      </td>
+      <td>
+        <h3>Senior Web Developer</h3>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Myanmar Marketing Research & Development Ltd. (MMRD) · Full-time</b></a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Dec 2015 - Oct 2017 · 1 yr 11 mos
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Yangon, Myanmar · On-site
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects 
+        <table>
+          <tbody>
+            <tr>
+              <td>- Directory Website Management (Big data)</td>
+            </tr>
+            <tr>
+              <td>- Advertising Management Software</td>
+            </tr>
+            <tr>
+              <td>- https://www.yangondirectory.com</td>
+            </tr>
+            <tr>
+              <td>- https://www.mandalaydirectory.com</td>
+            </tr>
+            <tr>
+              <td>- https://www.mandalaydirectory.com</td>
+            </tr>
+            <tr>
+              <td>- https://www.automobiledirectory.com.mm</td>
+            </tr>
+            <tr>
+              <td>- https://www.buildersguide.com.mm</td>
+            </tr>
+            <tr>
+              <td>- https://www.edge.com.mm</td>
+            </tr>
+            <tr>
+              <td>- https://www.foodindustrydirectory.com.mm</td>
+            </tr>
+            <tr>
+              <td>- https://www.sayar.com.mm</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        Tech stack
+        <table>
+          <tbody>
+            <tr>
+              <td>- PHP (Joomla, Laravel )</td>
+            </tr>
+            <tr>
+              <td>- MySql</td>
+            </tr>
+            <tr>
+              <td>- MSSql</td>
+            </tr>
+            <tr>
+              <td>- C#</td>
+            </tr>
+            <tr>
+              <td>- jQuery</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/mit_logo.jpeg" />
+      </td>
+      <td>
+        <h3>Senior Web Developer</h3>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Myanmar Information Technology Pte Ltd · Full-time</b></a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Dec 2011 - Oct 2015 · 3 yrs 11 mos
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        MICT park, Yangon, Myanmar · On-site
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects 
+        <table>
+          <tbody>
+            <tr>
+              <td>- ERP V5 Internal Accounting System (Sales Ledger, Purchase Ledger, General Ledger, Warehouse System,
+Final Report)</td>
+            </tr>
+            <tr>
+              <td>- YKKO Waiter App ( Web App )</td>
+            </tr>
+            <tr>
+              <td>- Banking Softwares</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        Tech stack
+        <table>
+          <tbody>
+            <tr>
+              <td>- J2EE</td>
+            </tr>
+            <tr>
+              <td>-  jQuery, JavaScript</td>
+            </tr>
+            <tr>
+              <td>- JAVA</td>
+            </tr>
+            <tr>
+              <td>- C#</td>
+            </tr>
+            <tr>
+              <td>- Crystal Report, Jasper Report</td>
+            </tr>
+            <tr>
+              <td>- Google GWT</td>
+            </tr>
+            <tr>
+              <td>- Subversion</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/galaxy_logo.jpeg" />
+      </td>
+      <td>
+        <h3>Programmer</h3>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Galaxy Software Co.,Ltd · Full-time</b></a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        2006 - 2009 · 3 yrs
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Yangon, Myanmar · On-site
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects 
+        <table>
+          <tbody>
+            <tr>
+              <td>- iStock®, Inventory Control System, is a software for
+keeping track of inventory.</td>
+            </tr>
+            <tr>
+              <td>-  iLedger®, is a cloud-based system designed to
+integrate business processes such as Inventory
+Control, Accounting Management, Order
+Management and Payroll processing.</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        Tech stack
+        <table>
+          <tbody>
+            <tr>
+              <td>- C#</td>
+            </tr>
+            <tr>
+              <td>- Microsoft Access</td>
+            </tr>
+            <tr>
+              <td>- Visual Basic</td>
+            </tr>
+            <tr>
+              <td>- Microsoft SQL Server</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
   </tbody>
 </table>
-
-<div id="header" align="center">
-  <a href="education.md">View more</a>
-</div>
 <br/>
 <hr/>
 
