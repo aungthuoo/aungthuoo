@@ -866,14 +866,14 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 <table>
   <thead align="center">
     <tr border: none;>
-      <td><b>📚 Description</b></td>
-      <td><b>⭐ Year</b></td>
+      <td><b></b></td>
+      <td><b></b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td>
-        <img align="center" width="70px" alt="hana-microfinance" src="./img/university/yu.jpeg" />
+        <img align="center" width="70px" alt="yu" src="./img/university/yu.jpeg" />
       </td>
       <td>
         <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>University of Yangon</b></a>
@@ -888,7 +888,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     </tr>
     <tr>
       <td>
-        <img align="center" width="70px" alt="hana-microfinance" src="./img/university/yieco.jpeg" />
+        <img align="center" width="70px" alt="yieco" src="./img/university/yieco.png" />
       </td>
       <td>
         <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Yangon Institute of Economics</b></a>
