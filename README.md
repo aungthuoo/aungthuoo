@@ -74,6 +74,19 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td>
         <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        Senior Developer 
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <table>
           <thead>
             <tr border: none;>
