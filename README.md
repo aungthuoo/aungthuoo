@@ -85,7 +85,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance · Full-time</b></a>
+        <a href="https://hanamyanmar.com/"><b>Hana Microfinance · Full-time</b></a>
       </td>
       <td>
       </td>
@@ -169,7 +169,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>SoftwareZay · Self-employed</b></a>
+        <a href="https://softwarezay.com"><b>SoftwareZay · Self-employed</b></a>
       </td>
       <td>
       </td>
@@ -265,7 +265,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Onenex (YOMA Group of Companies)· Full-time</b></a>
+        <a href="https://www.onenex.co/"><b>Onenex (YOMA Group of Companies)· Full-time</b></a>
       </td>
       <td>
       </td>
@@ -346,7 +346,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>MallPlus Myanmar · Contract</b></a>
+        <a href="https://mallplusmm.com/"><b>MallPlus Myanmar · Contract</b></a>
       </td>
       <td>
       </td>
@@ -439,7 +439,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Food Mall Myanmar · Full-time</b></a>
+        <a href="https://www.facebook.com/foodmallmm/"><b>Food Mall Myanmar · Full-time</b></a>
       </td>
       <td>
       </td>
@@ -532,7 +532,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>LAM Myanmar · Full-time</b></a>
+        <a href="https://www.facebook.com/lammmyanmar/"><b>LAM Myanmar · Full-time</b></a>
       </td>
       <td>
       </td>
@@ -616,7 +616,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Myanmar Marketing Research & Development Ltd. (MMRD) · Full-time</b></a>
+        <a href="https://www.mmrdrs.com/"><b>Myanmar Marketing Research & Development Ltd. (MMRD) · Full-time</b></a>
       </td>
       <td>
       </td>
@@ -715,7 +715,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Myanmar Information Technology Pte Ltd · Full-time</b></a>
+        <a href="https://www.mit.com.mm/"><b>Myanmar Information Technology Pte Ltd · Full-time</b></a>
       </td>
       <td>
       </td>
@@ -799,7 +799,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Galaxy Software Co.,Ltd · Full-time</b></a>
+        <a href="https://galaxy.com.mm/"><b>Galaxy Software Co.,Ltd · Full-time</b></a>
       </td>
       <td>
       </td>
@@ -876,7 +876,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
         <img align="center" width="70px" alt="yu" src="./img/university/yu.jpeg" />
       </td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>University of Yangon</b></a>
+        <a href="https://www.linkedin.com/school/rangoon-arts-and-sciences-university/"><b>University of Yangon</b></a>
       </td>
     </tr>
     <tr>
@@ -898,7 +898,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
         <img align="center" width="70px" alt="yieco" src="./img/university/yieco.png" />
       </td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Yangon Institute of Economics</b></a>
+        <a href="#"><b>Yangon Institute of Economics</b></a>
       </td>
     </tr>
     <tr>
