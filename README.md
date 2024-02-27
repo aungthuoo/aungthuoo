@@ -324,8 +324,21 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     View more
   </a>
 </div>
+
+- :office: &nbsp;I'm currently working at **[84.51°]**
+- :seedling: &nbsp;I’m currently working on my **[homelab]**
+- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
+- :book: &nbsp;Learn more about my projects on my **[blog]**
+- :mailbox: &nbsp;Ask me anything on my **[issues page]**
+- :computer: &nbsp;Connect with me on **[LinkedIn]**
+
 <br/>
 <hr/>
+
+
+
+## 📝 My React.js skills
+![image]({https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white})
 
 
 ## My last 3 DEV articles
