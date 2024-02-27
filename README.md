@@ -336,13 +336,24 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 
 
+### 📝 I know those topics very well. 
 
- - :heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
- - :heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
- - :heavy_check_mark: &nbsp;Fetch data with pagination  
- - :heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
- - :heavy_check_mark: &nbsp;Shopping cart componet  
- - :heavy_check_mark: &nbsp;Signup form example 
+ :heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
+ :heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
+ :heavy_check_mark: &nbsp;Fetch data with pagination  
+ :heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
+ :heavy_check_mark: &nbsp;Shopping cart componet  
+ :heavy_check_mark: &nbsp;Signup form example 
+
+
+### 📝 I tried these exercises well.  
+
+ :heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
+ :heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
+ :heavy_check_mark: &nbsp;Fetch data with pagination  
+ :heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
+ :heavy_check_mark: &nbsp;Shopping cart componet  
+ :heavy_check_mark: &nbsp;Signup form example 
 
 <br/>
 <hr/>
