@@ -934,7 +934,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 ## 📝 My JavaScript skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="./img/banners/my-node-js-skills.png" />
+  <img align="center" alt="Skills" src="./img/banners/my-javascript-skills.png" />
 </p>
 <p>
   I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs
