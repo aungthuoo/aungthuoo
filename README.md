@@ -66,12 +66,14 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 <table>
   <thead align="center">
     <tr border: none;>
+      <td>Logo</td>
       <td><b>📚 Description</b></td>
       <td><b>⭐ Year</b></td>
     </tr>
   </thead>
   <tbody>
     <tr>
+      <td></td>
       <td>
         <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
       </td>
@@ -86,6 +88,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
       </td>
     </tr>
     <tr>
+      <td></td>
       <td>
         <table>
           <thead>
@@ -111,6 +114,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
       </td>
     </tr>
     <tr>
+      <td></td>
       <td>
         <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
         <table>
