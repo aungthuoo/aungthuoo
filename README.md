@@ -127,7 +127,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 </table>
 
 <div id="header" align="center">
-  <a href="#">View more</a>
+  <a href="education.md">View more</a>
 </div>
 <br/>
 <hr/>
@@ -162,7 +162,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 </table>
 
 <div id="header" align="center">
-  <a href="#">View more</a>
+  <a href="education.md">View more</a>
 </div>
 <br/>
 <hr/>
@@ -221,7 +221,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 </ul>
 <br>
 <div id="header" align="center">
-  <a href="#">View more</a>
+  <a href="javascript-skill.md">View more</a>
 </div>
 <br/>
 <hr/>
