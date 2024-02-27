@@ -873,18 +873,31 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
   <tbody>
     <tr>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/university/yu.jpeg" />
       </td>
       <td>
-        <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>University of Yangon</b></a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
       </td>
       <td>
-        <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>PGDCA</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/university/yieco.jpeg" />
+      </td>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Yangon Institute of Economics</b></a>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>B.Com</b></a>
       </td>
     </tr>
   </tbody>
