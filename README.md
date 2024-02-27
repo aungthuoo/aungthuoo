@@ -22,7 +22,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 * ✍🏻 I wrote dev articles on [softwarezay.com](https://softwarezay.com) <br/>
 * 📫 Contact me [koaungthuoo@gmail.com](koaungthuoo@gmail.com)
 
-
+<!-- 
 <h3>To add my projects</h3>
 <table>
   <thead align="center">
@@ -59,7 +59,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
   </tbody>
 </table>
 
-
+ -->
 
 
 <h3>My Work Experiences</h3>
@@ -68,7 +68,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr border: none;>
       <td>Logo</td>
       <td><b>Description</b></td>
-      <td><b></b></td>
+      <td><b>Tech stack</b></td>
     </tr>
   </thead>
   <tbody>
@@ -1010,6 +1010,40 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 <br/>
 <hr/>
+
+
+
+## 📝 My React.js skills
+
+<p align="center">
+  <img align="center" alt="Skills" src="./img/my-react-js-skills.png" />
+</p>
+<p>
+  I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs
+</p>
+
+### 📝 <ins>I know those topics very well.</ins> 
+
+:heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
+:heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
+:heavy_check_mark: &nbsp;Fetch data with pagination  
+:heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
+:heavy_check_mark: &nbsp;Shopping cart componet  
+:heavy_check_mark: &nbsp;Signup form example 
+
+
+### 📝 I tried these exercises well.  
+
+:heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
+:heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
+:heavy_check_mark: &nbsp;Fetch data with pagination  
+:heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
+:heavy_check_mark: &nbsp;Shopping cart componet  
+:heavy_check_mark: &nbsp;Signup form example 
+
+<br/>
+<hr/>
+
 
 
 ## 📝 My Blogs
