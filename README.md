@@ -428,90 +428,6 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     </tr>
     <tr>
       <td>
-        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/lamm_logo.jpeg" />
-      </td>
-      <td>
-        <h3>𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲r</h3>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>LAM Myanmar · Full-time</b></a>
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        Sep 2017 - Jan 2019 · 1 yr 5 mos
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        Yangon · On-site
-      </td>
-      <td>
-      </td>
-    </tr>
-    <tr>
-      <td></td>
-      <td>
-        Projects 
-        <table>
-          <tbody>
-            <tr>
-              <td>- Gym Management App</td>
-            </tr>
-            <tr>
-              <td>- Real Estate Website</td>
-            </tr>
-            <tr>
-              <td>- Real Estate Customer App (Android, iOS)</td>
-            </tr>
-            <tr>
-              <td>- Loyalty Website</td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-      <td>
-        Tech stack
-        <table>
-          <tbody>
-            <tr>
-              <td>- Angular</td>
-            </tr>
-            <tr>
-              <td>- Android And IOS with (NativeScript + Vue.js/ Flutter)</td>
-            </tr>
-            <tr>
-              <td>- Laravel</td>
-            </tr>
-            <tr>
-              <td>- Vue.js </td>
-            </tr>
-            <tr>
-              <td>- React.js</td>
-            </tr>
-            <tr>
-              <td>- Git, Bitbucket</td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
-    <tr>
-      <td></td><td></td><td></td>
-    </tr>
-    <tr>
-      <td>
         <img align="center" width="70px" alt="hana-microfinance" src="./img/company/foodmall_logo.jpeg" />
       </td>
       <td>
@@ -595,6 +511,90 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
             </tr>
             <tr>
               <td>- Git</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/lamm_logo.jpeg" />
+      </td>
+      <td>
+        <h3>𝗙𝘂𝗹𝗹 𝗦𝘁𝗮𝗰𝗸 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲r</h3>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>LAM Myanmar · Full-time</b></a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Sep 2017 - Jan 2019 · 1 yr 5 mos
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Yangon · On-site
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects 
+        <table>
+          <tbody>
+            <tr>
+              <td>- Gym Management App</td>
+            </tr>
+            <tr>
+              <td>- Real Estate Website</td>
+            </tr>
+            <tr>
+              <td>- Real Estate Customer App (Android, iOS)</td>
+            </tr>
+            <tr>
+              <td>- Loyalty Website</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        Tech stack
+        <table>
+          <tbody>
+            <tr>
+              <td>- Angular</td>
+            </tr>
+            <tr>
+              <td>- Android And IOS with (NativeScript + Vue.js/ Flutter)</td>
+            </tr>
+            <tr>
+              <td>- Laravel</td>
+            </tr>
+            <tr>
+              <td>- Vue.js </td>
+            </tr>
+            <tr>
+              <td>- React.js</td>
+            </tr>
+            <tr>
+              <td>- Git, Bitbucket</td>
             </tr>
           </tbody>
         </table>
