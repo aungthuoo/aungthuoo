@@ -180,7 +180,8 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 
 
-<h3>My JavaScript skills</h3>
+## 📝 My JavaScript skills
+
 <p align="center">
   <img align="center" alt="Skills" src="./img/my-node-js-skills.png" />
 </p>
@@ -188,21 +189,6 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
   I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs, I am well-versed in leveraging Node.js's capabilities to deliver robust and high-performing solutions. My expertise extends to areas such as asynchronous programming, event-driven architecture, package management, and deploying applications in production environments. Additionally, I am proficient in utilizing popular frameworks and libraries within the Node.js ecosystem, such as Express.js, Socket.io, and Sequelize, to streamline development processes and enhance functionality. Overall, my deep understanding of Node.js enables me to tackle diverse challenges with efficiency and precision.
 </p>
 <ul>
-  <li>
-    <table>
-      <tr>
-        <td align="center" width="96">
-          <a href="#macropower-tech">
-            <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
-          </a>
-          <br>Node.js sequelize migrations
-        </td>
-      </tr>
-    </table>
-  </li>
-
-
-
   <li>
     <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
       <b>
