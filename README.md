@@ -329,10 +329,12 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 <span>Map & forEach</span>
 <span>Mutable and Immutable</span>
 
-<a href="#">:book: Difference Map & forEach</a> 
-<a href="#">:book: Mutable & Immutable</a> 
-<a href="#">:book: Throll</a>  
-
+<a href="#">:book: &nbsp;Difference Map & forEach</a> 
+<a href="#">:book: &nbsp;Mutable & Immutable</a> 
+<a href="#">:book: &nbsp;Throll</a>  
+<a href="#">:book: &nbsp;Difference Map & forEach</a> 
+<a href="#">:book: &nbsp;Mutable & Immutable</a> 
+<a href="#">:book: &nbsp;Throll</a> 
 
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
