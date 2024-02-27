@@ -329,8 +329,8 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 <span>Map & forEach</span>
 <span>Mutable and Immutable</span>
 
-<a href="#">Difference Map & forEach</a>
-<a href="#">Mutable & Immutable</a>
+<a href="#" style="padding:10px;border:1px solid black;">Difference Map & forEach</a>
+<a href="#" style="padding:10px;border:1px solid black;">Mutable & Immutable</a>
 
 
 
