@@ -328,6 +328,12 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 <span>Map & forEach</span>
 <span>Mutable and Immutable</span>
+![][black-shield]][black]
+
+[black]: http://github.com/psf/black
+[black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
+
+
 
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
@@ -354,6 +360,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 ![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
 <!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
 ## My last 3 DEV articles
 
