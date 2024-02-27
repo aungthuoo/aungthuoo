@@ -328,9 +328,9 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 <span>Map & forEach</span>
 <span>Mutable and Immutable</span>
-![][black-shield]][black]
+![][black-shield]][Map & forEach]
 
-[black]: http://github.com/psf/black
+[Map & forEach]: http://github.com/psf/black
 [black-shield]: https://img.shields.io/badge/code%20style-black-black.svg?style=for-the-badge&labelColor=gray
 
 
