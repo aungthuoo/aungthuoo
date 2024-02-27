@@ -862,6 +862,7 @@ Management and Payroll processing.</td>
     </tr>
   </tbody>
 </table>
+</tr>
 <br/>
 <hr/>
 
