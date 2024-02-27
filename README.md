@@ -105,29 +105,9 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 </ul>
 
 <br>
+<div id="header" align="center">
 
-[<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
-
-    [![Button Shield]][Shield]
-    
-<div align=center>
-    [![Badge License]][License]   
-    [![Badge Likes]][#]
-
-    <br>
-    <br>
-        
-    # Buttons
-            
-    **Links  ➞  Buttons**
-
-    <br>
-    <br>
-
-    [<kbd> <br> KeyBinding Button <br> </kbd>][KBD]
-
-    [![Button Shield]][Shield]
-
+<a href="#">View more</a>
 </div>
 
 
