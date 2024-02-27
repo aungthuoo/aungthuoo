@@ -330,6 +330,192 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
         </table>
       </td>
     </tr>
+    <tr>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/mallplus_logo.jpeg" />
+      </td>
+      <td>
+        <h3>Full Stack Developer</h3>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>MallPlus Myanmar · Contract</b></a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Nov 2022 - Dec 2023 · 1 yr 2 mos
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Yangon, Myanmar · Remote
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects 
+        <table>
+          <tbody>
+            <tr>
+              <td>- Food Order Customer App</td>
+            </tr>
+            <tr>
+              <td>- Restaurant App</td>
+            </tr>
+            <tr>
+              <td>- Biker/ Rider Food Delivery App</td>
+            </tr>
+            <tr>
+              <td>- Food Order Website</td>
+            </tr>
+            <tr>
+              <td>- Order Management Dashboard</td>
+            </tr>
+            <tr>
+              <td>- Realtime Rider Tracking Website</td>
+            </tr>
+            <tr>
+              <td>- Express Delivery Website & Delivery Management</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        Tech stack
+        <table>
+          <tbody>
+            <tr>
+              <td>- PHP (Laravel), React.js, Vue.js, Node.js</td>
+            </tr>
+            <tr>
+              <td>- Flutter (Android, iOS)</td>
+            </tr>
+            <tr>
+              <td>- Docker</td>
+            </tr>
+            <tr>
+              <td>- CI/CD, DigitalOcean</td>
+            </tr>
+            <tr>
+              <td>- MySQL</td>
+            </tr>
+            <tr>
+              <td>- Git</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/foodmall_logo.jpeg" />
+      </td>
+      <td>
+        <h3>Full Stack Developer</h3>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Food Mall Myanmar · Full-time</b></a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Jan 2019 - Mar 2023 · 4 yrs 3 mos
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Yangin, Yangon Region, Myanmar · On-site
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects 
+        <table>
+          <tbody>
+            <tr>
+              <td>- Food Order Customer App</td>
+            </tr>
+            <tr>
+              <td>- Restaurant App</td>
+            </tr>
+            <tr>
+              <td>- Biker/ Rider Food Delivery App</td>
+            </tr>
+            <tr>
+              <td>- Food Order Website</td>
+            </tr>
+            <tr>
+              <td>- Order Management Dashboard</td>
+            </tr>
+            <tr>
+              <td>- Realtime Rider Tracking Website</td>
+            </tr>
+            <tr>
+              <td>- Express Delivery Website & Delivery Management</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+      <td>
+        Tech stack
+        <table>
+          <tbody>
+            <tr>
+              <td>- PHP (Laravel), React.js, Vue.js, Node.js</td>
+            </tr>
+            <tr>
+              <td>- Flutter (Android, iOS)</td>
+            </tr>
+            <tr>
+              <td>- Docker</td>
+            </tr>
+            <tr>
+              <td>- CI/CD, DigitalOcean</td>
+            </tr>
+            <tr>
+              <td>- MySQL</td>
+            </tr>
+            <tr>
+              <td>- Git</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
   </tbody>
 </table>
 
