@@ -334,12 +334,12 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 
 
- :heavy_check_mark: &nbsp;I'm currently working at **[84.51°]** 
- :heavy_check_mark: &nbsp;I’m currently working on my **[homelab]**
- :heavy_check_mark: &nbsp;I like to talk about **K8s** and other **OSS** 
- :heavy_check_mark: &nbsp;Learn more about my projects on my **[blog]**  
- :heavy_check_mark: &nbsp;Ask me anything on my **[issues page]**  
- :heavy_check_mark: &nbsp;Connect with me on **[LinkedIn]** 
+ :heavy_check_mark: &nbsp;Change language  
+ :heavy_check_mark: &nbsp;How to make darkmode 
+ :heavy_check_mark: &nbsp;Fetch data with pagination  
+ :heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
+ :heavy_check_mark: &nbsp;Shopping cart componet  
+ :heavy_check_mark: &nbsp;Signup form example 
 
 <br/>
 <hr/>
