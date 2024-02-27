@@ -821,45 +821,7 @@ Final Report)</td>
       <td>
       </td>
     </tr>
-    <tr>
-      <td></td>
-      <td>
-        Projects 
-        <table>
-          <tbody>
-            <tr>
-              <td>- iStock®, Inventory Control System, is a software for
-keeping track of inventory.</td>
-            </tr>
-            <tr>
-              <td>-  iLedger®, is a cloud-based system designed to
-integrate business processes such as Inventory
-Control, Accounting Management, Order
-Management and Payroll processing.</td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-      <td>
-        Tech stack
-        <table>
-          <tbody>
-            <tr>
-              <td>- C#</td>
-            </tr>
-            <tr>
-              <td>- Microsoft Access</td>
-            </tr>
-            <tr>
-              <td>- Visual Basic</td>
-            </tr>
-            <tr>
-              <td>- Microsoft SQL Server</td>
-            </tr>
-          </tbody>
-        </table>
-      </td>
-    </tr>
+    
   </tbody>
 </table>
 </tr>
