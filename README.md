@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img align="center" alt="Skills" src="./img/banners/main-banner.png" />
+  <img align="center" alt="Skills" src="./img/banners/main-banner-01.png" />
 </p>
 
 
