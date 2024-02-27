@@ -930,44 +930,35 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 <hr/>
 
 
+
 ## 📝 My JavaScript skills
 
+<p align="center">
+  <img align="center" alt="Skills" src="./img/banners/my-node-js-skills.png" />
+</p>
 <p>
   I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs
 </p>
-  
-<ul>
-  <li>
-    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
-      <strong>
-        <b>Node.js sequelize migrations Node.js sequelize migrations</b>
-      </strong>
-    </a>  
-    <br/>
-    <small><i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it.</i>...</small>
-  </li>
-  
-  <li>
-    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
-      <strong>
-        <b>Node.js sequelize migrations Node.js sequelize migrations</b>
-      </strong>
-    </a>  
-    <br/>
-    <small><i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it.</i>...</small>
-  </li>
-  
-  <li>
-    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
-      <strong>
-        <b>Node.js sequelize migrations Node.js sequelize migrations</b>
-      </strong>
-    </a>  
-    <br/>
-    <small><i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it.</i>...</small>
-  </li>
-  
-</ul>
+
+### 📝 <ins>I know those topics very well.</ins> 
+
+:heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
+:heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
+:heavy_check_mark: &nbsp;Fetch data with pagination  
+:heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
+:heavy_check_mark: &nbsp;Shopping cart componet  
+:heavy_check_mark: &nbsp;Signup form example 
+
+
+### 📝 I tried these exercises well.  
+
+:heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
+:heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
+:heavy_check_mark: &nbsp;Fetch data with pagination  
+:heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
+:heavy_check_mark: &nbsp;Shopping cart componet  
+:heavy_check_mark: &nbsp;Signup form example 
+
 <br>
 <div id="header" align="center">
   <a href="javascript-skill.md">
