@@ -73,8 +73,6 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 </p>
 
 <p>
-  To express that you have a strong understanding of Node.js, you could phrase it as follows:
-
   I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs, I am well-versed in leveraging Node.js's capabilities to deliver robust and high-performing solutions. My expertise extends to areas such as asynchronous programming, event-driven architecture, package management, and deploying applications in production environments. Additionally, I am proficient in utilizing popular frameworks and libraries within the Node.js ecosystem, such as Express.js, Socket.io, and Sequelize, to streamline development processes and enhance functionality. Overall, my deep understanding of Node.js enables me to tackle diverse challenges with efficiency and precision.
 </p>
 <ul>
