@@ -77,6 +77,14 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
         <img align="center" width="70px" alt="hana-microfinance" src="./img/company/hana_microfinance_logo.jpeg" />
       </td>
       <td>
+        <h3>Senior Developer</h3>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
         <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
       </td>
       <td>
@@ -85,7 +93,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
-        Senior Developer 
+        Jan 2024 - Present 
       </td>
       <td>
       </td>
@@ -93,27 +101,78 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
     <tr>
       <td></td>
       <td>
+        Yangon, Myanmar 
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects 
         <table>
-          <thead>
-            <tr border: none;>
-              <td><b>📚 Description</b></td>
-              <td><b>⭐ Year</b></td>
-            </tr>
-          </thead>
           <tbody>
             <tr>
-              <td>Line </td>
-              <td>Line </td>
+              <td>- FinFlex integration</td>
             </tr>
             <tr>
-              <td>Line </td>
-              <td>Line </td>
+              <td>- Loan App (Online/ offline )</td>
+            </tr>
+            <tr>
+              <td>- Admin dashboard</td>
+            </tr>
+            <tr>
+              <td>- Internal softwares</td>
             </tr>
           </tbody>
         </table>
       </td>
       <td>
-        <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/>
+        Tech stack
+        <table>
+          <tbody>
+            <tr>
+              <td>- PHP (Laravel)</td>
+            </tr>
+            <tr>
+              <td>- React.js</td>
+            </tr>
+            <tr>
+              <td>- Node.js</td>
+            </tr>
+            <tr>
+              <td>- Docker</td>
+            </tr>
+            <tr>
+              <td>- AWS</td>
+            </tr>
+            <tr>
+              <td>- Microsoft Power Platform, Power Apps</td>
+            </tr>
+          </tbody>
+        </table>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects
+        <table>
+          <tbody>
+            <tr>
+              <td>- FinFlex integration</td>
+            </tr>
+            <tr>
+              <td>- Loan App (Online/ offline )</td>
+            </tr>
+            <tr>
+              <td>- Admin dashboard</td>
+            </tr>
+            <tr>
+              <td>- Internal softwares</td>
+            </tr>
+          </tbody>
+        </table>
       </td>
     </tr>
     <tr>
