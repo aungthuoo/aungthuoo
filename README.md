@@ -189,6 +189,21 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 </p>
 <ul>
   <li>
+    <table>
+      <tr>
+        <td align="center" width="96">
+          <a href="#macropower-tech">
+            <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+          </a>
+          <br>Node.js sequelize migrations
+        </td>
+      </tr>
+    </table>
+  </li>
+
+
+
+  <li>
     <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
       <b>
         Node.js sequelize migrations
