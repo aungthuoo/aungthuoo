@@ -743,8 +743,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
         <table>
           <tbody>
             <tr>
-              <td>- ERP V5 Internal Accounting System (Sales Ledger, Purchase Ledger, General Ledger, Warehouse System,
-Final Report)</td>
+              <td>- ERP V5 Accounting System</td>
             </tr>
             <tr>
               <td>- YKKO Waiter App ( Web App )</td>
