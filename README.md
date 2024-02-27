@@ -250,30 +250,84 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
       </td>
     </tr>
     <tr>
+      <td></td><td></td><td></td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" width="70px" alt="hana-microfinance" src="./img/company/onenex_logo.jpeg" />
+      </td>
+      <td>
+        <h3>Sr. Software Engineer</h3>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
       <td></td>
       <td>
-        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Hana Microfinance</b></a>
+        <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Onenex (YOMA Group of Companies)· Full-time</b></a>
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Jan 2023 - Dec 2023 · 1 yr
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Yangon, Myanmar · On-site
+      </td>
+      <td>
+      </td>
+    </tr>
+    <tr>
+      <td></td>
+      <td>
+        Projects 
         <table>
-          <thead>
-            <tr border: none;>
-              <td><b>📚 Description</b></td>
-              <td><b>⭐ Year</b></td>
-            </tr>
-          </thead>
           <tbody>
             <tr>
-              <td>Line </td>
-              <td>Line </td>
+              <td>- Pocket (Loyalty Point App)</td>
             </tr>
             <tr>
-              <td>Line </td>
-              <td>Line </td>
+              <td>- Yoma Connect (HR Software)</td>
             </tr>
           </tbody>
         </table>
       </td>
       <td>
-        <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/>
+        Tech stack
+        <table>
+          <tbody>
+            <tr>
+              <td>- PHP (Laravel)</td>
+            </tr>
+            <tr>
+              <td>- Vue.js</td>
+            </tr>
+            <tr>
+              <td>- Node.js</td>
+            </tr>
+            <tr>
+              <td>- CI/CD</td>
+            </tr>
+            <tr>
+              <td>- Amazon Web Service (AWS)</td>
+            </tr>
+            <tr>
+              <td>- MySQL</td>
+            </tr>
+            <tr>
+              <td>- Git</td>
+            </tr>
+          </tbody>
+        </table>
       </td>
     </tr>
   </tbody>
