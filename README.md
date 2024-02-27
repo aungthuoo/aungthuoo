@@ -325,18 +325,6 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
   </a>
 </div>
 
-
-<span>Map & forEach</span>
-<span>Mutable and Immutable</span>
-
-<a href="#">:book: &nbsp;Difference Map & forEach</a> 
-<a href="#">:book: &nbsp;Mutable & Immutable</a> 
-<a href="#">:book: &nbsp;Throll</a>  
-<a href="#">:book: &nbsp;Difference Map & forEach</a> 
-<a href="#">:book: &nbsp;Mutable & Immutable</a> 
-<a href="#">:book: &nbsp;Throll</a> 
-
-
 - :office: &nbsp;I'm currently working at **[84.51°]**
 - :seedling: &nbsp;I’m currently working on my **[homelab]**
 - :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
@@ -346,12 +334,12 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 
 
- :office: &nbsp;I'm currently working at **[84.51°]**
- :seedling: &nbsp;I’m currently working on my **[homelab]**
- :speech_balloon: &nbsp;I like to talk about **K8s** and other **OSS**
- :book: &nbsp;Learn more about my projects on my **[blog]**
- :mailbox: &nbsp;Ask me anything on my **[issues page]**
- :computer: &nbsp;Connect with me on **[LinkedIn]**
+ :heavy_check_mark: &nbsp;I'm currently working at **[84.51°]**
+ :heavy_check_mark: &nbsp;I’m currently working on my **[homelab]**
+ :heavy_check_mark: &nbsp;I like to talk about **K8s** and other **OSS**
+ :heavy_check_mark: &nbsp;Learn more about my projects on my **[blog]**
+ :heavy_check_mark: &nbsp;Ask me anything on my **[issues page]**
+ :heavy_check_mark: &nbsp;Connect with me on **[LinkedIn]**
 
 <br/>
 <hr/>
