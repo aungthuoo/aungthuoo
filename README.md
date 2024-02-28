@@ -970,37 +970,25 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 
 
-## 📝 My Node.js skills
+# 📝 My Node.js skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="./img/banners/my-node-js-skills.png" />
+  <img align="center" alt="Skills" src="https://raw.githubusercontent.com/aungthuoo/aungthuoo/main/img/banners/my-node-js-skills.png" />
 </p>
 <p>
-  I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs
+I am highly proficient in Node.js, with a deep understanding of its core principles and advanced functionalities. Over the course of my experience, I have developed a robust skill set that enables me to tackle a wide range of backend development tasks with efficiency and precision.
+  
 </p>
 
-### 📝 <ins>I know those topics very well.</ins> 
+## 📝 <ins>I know those topics very well.</ins> 
 
-:heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
-:heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
-:heavy_check_mark: &nbsp;Fetch data with pagination  
-:heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
-:heavy_check_mark: &nbsp;Shopping cart componet  
-:heavy_check_mark: &nbsp;Signup form example 
-
-
-### 📝 I tried these exercises well.  
-
-:heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
-:heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
-:heavy_check_mark: &nbsp;Fetch data with pagination  
-:heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
-:heavy_check_mark: &nbsp;Shopping cart componet  
-:heavy_check_mark: &nbsp;Signup form example 
+### :heavy_check_mark: &nbsp;[Cross-Origin Resource Sharing (CORS) in a Node.js application](https://gist.github.com/aungthuoo/d1818cd12ce5221075d89659f620a00d) 
+### :heavy_check_mark: &nbsp;[Node.js JWT Basic example](https://gist.github.com/aungthuoo/3c433d85b7d983b62c5a1c99339eb806)
+### :heavy_check_mark: &nbsp;[Node.js sequelize install](https://gist.github.com/aungthuoo/35e7c28c16a162e861e170d6ff1c6ac0)
 
 <br>
 <div id="header" align="center">
-  <a href="javascript-skill.md">
+  <a href="https://gist.github.com/aungthuoo/3ee7e3bad5e9802245a2b8d15817a86a">
     View more
   </a>
 </div>
