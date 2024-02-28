@@ -1027,7 +1027,7 @@ We’re prepared to fetch data from the Hacker News API. Take a closer look at t
 S.O.L.I.D principles are specifically designed to support the OOP (Object-Oriented Programming) paradigm. Hence, this article is designed for OOP developers who wish to level up their development skills and to write more elegant, maintainable and scalable code.
 <br>
 <div id="header" align="center">
-  <a href="[javascript-skill.md](https://gist.github.com/aungthuoo/30348157c1b06d4eced69a59a145ac4d)">
+  <a href="https://gist.github.com/aungthuoo/30348157c1b06d4eced69a59a145ac4d">
     View more
   </a>
 </div>
