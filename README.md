@@ -1015,7 +1015,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
   <img align="center" alt="Skills" src="./img/banners/my-react-js-skills.png" />
 </p>
 <p>
-  I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs
+  I am highly proficient in React.js, possessing a comprehensive understanding of its core concepts and advanced features. With extensive hands-on experience, I have developed a deep familiarity with React's component-based architecture, state management techniques, and modern development practices.
 </p>
 
 ### 📝 <ins>I know those topics very well.</ins> 
