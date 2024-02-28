@@ -1054,17 +1054,6 @@ S.O.L.I.D principles are specifically designed to support the OOP (Object-Orient
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![image](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 
-<!-- https://github.com/alexandresanlim/Badges4-README.md-Profile -->
-<!-- https://github.com/Ileriayo/markdown-badges -->
-
-## My last 3 DEV articles
-
-<!-- BLOG-POST-LIST:START -->
-- [👑 Deploy a React Application With Firebase Hosting 🔐](https://softwarezay.com/notes/topics/react-js-deploy-to-firebase-hosting)
-- [🍿 Fetching paginated data using React.js 📦](https://softwarezay.com/notes/topics/fetching-paginated-data-using-react-js)
-- [🍿 Fetching data using React.js 📦](https://softwarezay.com/notes/topics/fetching-data-using-react-js)
-<!-- BLOG-POST-LIST:END -->
-
 <br/>
 <br/>
 
