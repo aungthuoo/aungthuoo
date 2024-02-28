@@ -932,7 +932,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 # 📝 My JavaScript.js skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="https://raw.githubusercontent.com/aungthuoo/aungthuoo/main/img/banners/my-node-js-skills.png" />
+  <img align="center" alt="Skills" src="https://raw.githubusercontent.com/aungthuoo/aungthuoo/main/img/banners/my-javascript-skills.png" />
 </p>
 <p>
 I am highly proficient in JavaScript, possessing a deep understanding of its language fundamentals, modern features, and best practices. With extensive experience, I have honed my skills to tackle a wide range of programming challenges with confidence and efficiency.
@@ -942,8 +942,13 @@ I am highly proficient in JavaScript, possessing a deep understanding of its lan
 ## 📝 <ins>I know those topics very well.</ins> 
 
 ### :heavy_check_mark: &nbsp;[JavaScript Arrow Functions vs Regular Functions](https://gist.github.com/aungthuoo/4258fefc276d137497cc44f82ea299bc) 
+In JavaScript, there are two main ways of writing functions. I can create functions using the regular function syntax. Or I can use the arrow function syntax.
+
 ### :heavy_check_mark: &nbsp;[JavaScript Spread and Rest Operators: A Guide](https://gist.github.com/aungthuoo/8031a2ed79c2e48823c56586776b2a9b)
+Spread and rest operators are two of the most useful pieces of shorthand in JavaScript. Spread operators allow us to expand an array or object into its individual elements, while rest operators allow us to condense multiple elements into a single array or object.
+
 ### :heavy_check_mark: &nbsp;[Which is Faster in JavaScript map vs. forEach?](https://gist.github.com/aungthuoo/9a6c87f401ca702e9b3aaf0a35f840a8)
+Both map() and forEach() are array methods in JavaScript that are used to iterate over each item in an array. However, they have different functionalities and therefore perform differently in certain scenarios. I will explore the differences between map() and forEach() and how they affect performance.
 
 <br>
 <div id="header" align="center">
@@ -1020,39 +1025,15 @@ S.O.L.I.D principles are specifically designed to support the OOP (Object-Orient
 <p>
   I possess extensive knowledge and experience in Node.js. Over the years, I have honed my skills through various projects and challenges, allowing me to confidently tackle complex tasks and optimize performance. From building scalable server-side applications to implementing efficient APIs
 </p>
-  
-<ul>
-  <li>
-    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
-      <strong>
-        <b>Node.js sequelize migrations Node.js sequelize migrations</b>
-      </strong>
-    </a>  
-    <br/>
-    <small><i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it.</i>...</small>
-  </li>
-  
-  <li>
-    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
-      <strong>
-        <b>Node.js sequelize migrations Node.js sequelize migrations</b>
-      </strong>
-    </a>  
-    <br/>
-    <small><i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it.</i>...</small>
-  </li>
-  
-  <li>
-    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
-      <strong>
-        <b>Node.js sequelize migrations Node.js sequelize migrations</b>
-      </strong>
-    </a>  
-    <br/>
-    <small><i>A Migration in Sequelize is a javascript file which exports two functions, up and down, that dictates how to perform the migration and undo it.</i>...</small>
-  </li>
-  
-</ul>
+
+### :heavy_check_mark: &nbsp;[Which is Faster in JavaScript map vs. forEach?](https://gist.github.com/aungthuoo/9a6c87f401ca702e9b3aaf0a35f840a8)
+Both map() and forEach() are array methods in JavaScript that are used to iterate over each item in an array. However, they have different functionalities and therefore perform differently in certain scenarios. I will explore the differences between map() and forEach() and how they affect performance.
+
+### :heavy_check_mark: &nbsp;[Cross-Origin Resource Sharing (CORS) in a Node.js application](https://gist.github.com/aungthuoo/d1818cd12ce5221075d89659f620a00d) 
+
+### :heavy_check_mark: &nbsp;[S.O.L.I.D: The 5 Golden Rules to Level Up Your Coding Skills](https://gist.github.com/aungthuoo/95731511a516316fe1b76c248a6cfde0)
+S.O.L.I.D principles are specifically designed to support the OOP (Object-Oriented Programming) paradigm. Hence, this article is designed for OOP developers who wish to level up their development skills and to write more elegant, maintainable and scalable code.
+
 <br>
 <div id="header" align="center">
   <a href="javascript-skill.md">
