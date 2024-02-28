@@ -1035,11 +1035,7 @@ Both map() and forEach() are array methods in JavaScript that are used to iterat
 S.O.L.I.D principles are specifically designed to support the OOP (Object-Oriented Programming) paradigm. Hence, this article is designed for OOP developers who wish to level up their development skills and to write more elegant, maintainable and scalable code.
 
 <br>
-<div id="header" align="center">
-  <a href="javascript-skill.md">
-    View more
-  </a>
-</div>
+<hr/>
 
 
 ## 📝 My tech stack
