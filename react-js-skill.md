@@ -14,6 +14,8 @@
 ### :heavy_check_mark: &nbsp;[React.js fetch data with pagination](https://gist.github.com/aungthuoo/2873ae0aa19f4d8d1f3038c5f6ac27f9)
 We’re prepared to fetch data from the Hacker News API. Take a closer look at the data structure and observe how the Hacker News API returns more than a list of hits. 
 ### :heavy_check_mark: &nbsp;[S.O.L.I.D: The 5 Golden Rules to Level Up Your Coding Skills](https://gist.github.com/aungthuoo/95731511a516316fe1b76c248a6cfde0)
+S.O.L.I.D principles are specifically designed to support the OOP (Object-Oriented Programming) paradigm. Hence, this article is designed for OOP developers who wish to level up their development skills and to write more elegant, maintainable and scalable code.
+
 ### :heavy_check_mark: &nbsp;[Redux simple example]()
 ### :heavy_check_mark: &nbsp;[Simple search using debounce and cancelable technique]()
 ### :heavy_check_mark: &nbsp;[Simple search function]()

@@ -1008,38 +1008,26 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 <hr/>
 
 
-
-## 📝 My React.js skills
+# 📝 My React.js skills
 
 <p align="center">
-  <img align="center" alt="Skills" src="./img/banners/my-react-js-skills.png" />
+  <img align="center" alt="Skills" src="https://raw.githubusercontent.com/aungthuoo/aungthuoo/main/img/banners/my-react-js-skills.png" />
 </p>
 <p>
   I am highly proficient in React.js, possessing a comprehensive understanding of its core concepts and advanced features. With extensive hands-on experience, I have developed a deep familiarity with React's component-based architecture, state management techniques, and modern development practices.
+  
 </p>
 
-### 📝 <ins>I know those topics very well.</ins> 
+## 📝 <ins>I know those topics very well.</ins> 
 
-:heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
-:heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
-:heavy_check_mark: &nbsp;Fetch data with pagination  
-:heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
-:heavy_check_mark: &nbsp;Shopping cart componet  
-:heavy_check_mark: &nbsp;Signup form example 
-
-
-### 📝 I tried these exercises well.  
-
-:heavy_check_mark: &nbsp;[Change language](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748)  
-:heavy_check_mark: &nbsp;[Node.js sequelize migrations Node.js sequelize migrations](https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748) 
-:heavy_check_mark: &nbsp;Fetch data with pagination  
-:heavy_check_mark: &nbsp;Search using debounce and cancelable technique   
-:heavy_check_mark: &nbsp;Shopping cart componet  
-:heavy_check_mark: &nbsp;Signup form example 
-
+### :heavy_check_mark: &nbsp;[React.Js Internationalization / Change language simple example with React.js](https://gist.github.com/aungthuoo/244aedb71c9d3960a2ebd5ebe1beb965) 
+### :heavy_check_mark: &nbsp;[React.js fetch data with pagination](https://gist.github.com/aungthuoo/2873ae0aa19f4d8d1f3038c5f6ac27f9)
+We’re prepared to fetch data from the Hacker News API. Take a closer look at the data structure and observe how the Hacker News API returns more than a list of hits. 
+### :heavy_check_mark: &nbsp;[S.O.L.I.D: The 5 Golden Rules to Level Up Your Coding Skills](https://gist.github.com/aungthuoo/95731511a516316fe1b76c248a6cfde0)
+S.O.L.I.D principles are specifically designed to support the OOP (Object-Oriented Programming) paradigm. Hence, this article is designed for OOP developers who wish to level up their development skills and to write more elegant, maintainable and scalable code.
 <br>
 <div id="header" align="center">
-  <a href="javascript-skill.md">
+  <a href="[javascript-skill.md](https://gist.github.com/aungthuoo/30348157c1b06d4eced69a59a145ac4d)">
     View more
   </a>
 </div>
