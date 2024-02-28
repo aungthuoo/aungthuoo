@@ -1,31 +1,15 @@
-<h1>My Node.js skills</h1>
+# 📝 My Node.js skills
+
 <p align="center">
-  <img align="center" alt="Skills" src="./img/my-react-js-skills.png" />
+  <img align="center" alt="Skills" src="https://raw.githubusercontent.com/aungthuoo/aungthuoo/main/img/banners/my-node-js-skills.png" />
 </p>
 <p>
-  I possess an extensive and in-depth understanding of React.js, stemming from years of hands-on experience and numerous successful projects. My expertise covers a wide range of React.js concepts and features, including but not limited to:
+I am highly proficient in Node.js, with a deep understanding of its core principles and advanced functionalities. Over the course of my experience, I have developed a robust skill set that enables me to tackle a wide range of backend development tasks with efficiency and precision.
+  
 </p>
 
-<h3>Other</h3>
-<ul>
-  <li>
-    <a href="https://gist.github.com/aungthuoo/88659d3e93977d10054d0671bb7ea748">
-        <b>
-        Immutable vs Mutable Approach: Mastering React State Updates
-        </b>
-    </a>
-    <br/>
-    <i>As your application grows, efficiently updating the state becomes crucial for performance. Understanding the concepts of mutable and immutable state, and knowing when to use them, can significantly impact your React application’s responsiveness.</i>
-  </li>
-  
-  <li>
-    <a href="https://gist.github.com/aungthuoo/9cee96ea609f924eeb45d3f313db5bbd">
-        <b>
-        Difference Between PUT and PATCH Request
-        </b>
-    </a>
-    <br/>
-    <i>PUT is a method of modifying resources where the client sends data that updates the entire resource. PUT is similar to POST in that it can create resources, but it does so when there is a defined URL wherein PUT replaces the entire resource if it exists or creates new if it does not exist.</i>
-  </li>
-</ul>
+## 📝 <ins>I know those topics very well.</ins> 
 
+### :heavy_check_mark: &nbsp;[Cross-Origin Resource Sharing (CORS) in a Node.js application](https://gist.github.com/aungthuoo/d1818cd12ce5221075d89659f620a00d) 
+### :heavy_check_mark: &nbsp;[Node.js JWT Basic example](https://gist.github.com/aungthuoo/3c433d85b7d983b62c5a1c99339eb806)
+### :heavy_check_mark: &nbsp;[Node.js sequelize install](https://gist.github.com/aungthuoo/35e7c28c16a162e861e170d6ff1c6ac0)
