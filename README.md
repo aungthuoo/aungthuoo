@@ -950,11 +950,9 @@ Spread and rest operators are two of the most useful pieces of shorthand in Java
 ### :heavy_check_mark: &nbsp;[Which is Faster in JavaScript map vs. forEach?](https://gist.github.com/aungthuoo/9a6c87f401ca702e9b3aaf0a35f840a8)
 Both map() and forEach() are array methods in JavaScript that are used to iterate over each item in an array. However, they have different functionalities and therefore perform differently in certain scenarios. I will explore the differences between map() and forEach() and how they affect performance.
 
-<br>
-<div id="header" align="center">
-  <a href="https://gist.github.com/aungthuoo/5fe500fed7863cacc2157f16c50a3263">
-    View more
-  </a>
+<br/>
+<div align="right">
+  <b><a href="https://gist.github.com/aungthuoo/5fe500fed7863cacc2157f16c50a3263">[ View more ]</a></b>
 </div>
 <br/>
 <hr/>
@@ -978,14 +976,14 @@ I am highly proficient in Node.js, with a deep understanding of its core princip
 ### :heavy_check_mark: &nbsp;[Node.js JWT Basic example](https://gist.github.com/aungthuoo/3c433d85b7d983b62c5a1c99339eb806)
 ### :heavy_check_mark: &nbsp;[Node.js sequelize install](https://gist.github.com/aungthuoo/35e7c28c16a162e861e170d6ff1c6ac0)
 
-<br>
-<div id="header" align="center">
-  <a href="https://gist.github.com/aungthuoo/3ee7e3bad5e9802245a2b8d15817a86a">
-    View more
-  </a>
+
+<br/>
+<div align="right">
+  <b><a href="https://gist.github.com/aungthuoo/3ee7e3bad5e9802245a2b8d15817a86a">[ View more ]</a></b>
 </div>
 <br/>
 <hr/>
+
 
 
 # 📝 My React.js skills
@@ -1005,15 +1003,13 @@ I am highly proficient in Node.js, with a deep understanding of its core princip
 We’re prepared to fetch data from the Hacker News API. Take a closer look at the data structure and observe how the Hacker News API returns more than a list of hits. 
 ### :heavy_check_mark: &nbsp;[S.O.L.I.D: The 5 Golden Rules to Level Up Your Coding Skills](https://gist.github.com/aungthuoo/95731511a516316fe1b76c248a6cfde0)
 S.O.L.I.D principles are specifically designed to support the OOP (Object-Oriented Programming) paradigm. Hence, this article is designed for OOP developers who wish to level up their development skills and to write more elegant, maintainable and scalable code.
-<br>
-<div id="header" align="center">
-  <a href="https://gist.github.com/aungthuoo/30348157c1b06d4eced69a59a145ac4d">
-    View more
-  </a>
+
+<br/>
+<div align="right">
+  <b><a href="https://gist.github.com/aungthuoo/30348157c1b06d4eced69a59a145ac4d">[ View more ]</a></b>
 </div>
 <br/>
 <hr/>
-
 
 
 
