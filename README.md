@@ -951,7 +951,7 @@ Spread and rest operators are two of the most useful pieces of shorthand in Java
 Both map() and forEach() are array methods in JavaScript that are used to iterate over each item in an array. However, they have different functionalities and therefore perform differently in certain scenarios. I will explore the differences between map() and forEach() and how they affect performance.
 
 <br/>
-<div align="right">
+<div align="center">
   <b><a href="https://gist.github.com/aungthuoo/5fe500fed7863cacc2157f16c50a3263">[ View more ]</a></b>
 </div>
 <br/>
