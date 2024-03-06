@@ -978,7 +978,7 @@ I am highly proficient in Node.js, with a deep understanding of its core princip
 
 
 <br/>
-<div align="right">
+<div align="center">
   <b><a href="https://gist.github.com/aungthuoo/3ee7e3bad5e9802245a2b8d15817a86a">[ View more ]</a></b>
 </div>
 <br/>
@@ -1005,7 +1005,7 @@ We’re prepared to fetch data from the Hacker News API. Take a closer look at t
 S.O.L.I.D principles are specifically designed to support the OOP (Object-Oriented Programming) paradigm. Hence, this article is designed for OOP developers who wish to level up their development skills and to write more elegant, maintainable and scalable code.
 
 <br/>
-<div align="right">
+<div align="center">
   <b><a href="https://gist.github.com/aungthuoo/30348157c1b06d4eced69a59a145ac4d">[ View more ]</a></b>
 </div>
 <br/>
