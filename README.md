@@ -882,7 +882,7 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
       <td>
       </td>
       <td>
-        <b>PGDCA</b>
+        <b>Post Graduate Deploma in Computer (PGDCA)</b>
       </td>
     </tr>
     <tr>
