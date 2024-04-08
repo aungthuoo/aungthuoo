@@ -920,6 +920,40 @@ My core competencies include __PHP, React.js, Node.js, Vue.js, Laravel, AWS, and
 
 
 
+<h1 align="center">Aung Thu Oo (Andrew Maung)</h1>
+<table>
+  <tbody>
+    <tr>
+      <td><b>Information</b></td>
+      <td width="30%" rowspan="4">
+        <img alt="Photo" src="./assets/images/SU_ID.jpg" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <ul>
+          <li>koaungthuoo@gmail.com</li>
+          <li><a href="#">Links</a></li>
+        </ul>
+      </td>
+    </tr>
+    <tr><td><b>Showcase</b></td></tr>
+    <tr>
+      <td width="70%">
+        <ul>
+          <li><a href="#">Education</a></li>
+          <li><a href="#">Experience</a></li>
+          <li><a href="#">Projects</a></li>
+          <li><a href="#">Skills & Qualifications</a></li>
+          <li><a href="#">Honors & Extracurriculars</a></li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
 
 <h3>My Skills</h3>
 <p align="center">
