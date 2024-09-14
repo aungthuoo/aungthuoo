@@ -4,9 +4,9 @@
 </p>
 
 <div style="text-align: center;">
-  <a href="https://aungthuoo.github.io" target="_blank">
-    <button style="padding: 10px 20px; font-size: 16px; background-color: #007bff; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Visit my website
-    </button>
+<p align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_My_Website-007bff?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Visit My Website">
   </a>
+</p>
 </div>
